@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587721282892.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2293266816",
+    "id" : "B944D90D",
+    "lastKnownWriteTime" : 1587721548,
+    "last_content_update" : 1587721548530,
+    "path" : "E:/Learn DqLab/Learn_Chart,Plot_Pie/Learn/Trend Jumlah mahasiswa dari tahun ke tahun.R",
+    "project_path" : "Trend Jumlah mahasiswa dari tahun ke tahun.R",
+    "properties" : {
+        "cursorPosition" : "9,27",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

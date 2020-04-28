@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587721589658.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3390941217",
+    "id" : "2B179C5B",
+    "lastKnownWriteTime" : 1587721776,
+    "last_content_update" : 1587721776618,
+    "path" : "E:/Learn DqLab/Learn_Chart,Plot_Pie/Learn/Pie chart distribusi mahasiwa per fakultas.R",
+    "project_path" : "Pie chart distribusi mahasiwa per fakultas.R",
+    "properties" : {
+        "cursorPosition" : "5,31",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

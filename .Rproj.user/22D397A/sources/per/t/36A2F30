@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587721839309.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "490025458",
+    "id" : "36A2F30",
+    "lastKnownWriteTime" : 1587721902,
+    "last_content_update" : 1587721902320,
+    "path" : "E:/Learn DqLab/Learn_Chart,Plot_Pie/Learn/Filtering Kolom Fakultas.R",
+    "project_path" : "Filtering Kolom Fakultas.R",
+    "properties" : {
+        "cursorPosition" : "3,28",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

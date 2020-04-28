@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587719159276.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2804330523",
+    "id" : "9E00DB2C",
+    "lastKnownWriteTime" : 1587720112,
+    "last_content_update" : 1587720112759,
+    "path" : "E:/Learn DqLab/Learn_Chart,Plot_Pie/Learn/LearnChart.R",
+    "project_path" : "LearnChart.R",
+    "properties" : {
+        "cursorPosition" : "12,6",
+        "scrollLine" : "3",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
